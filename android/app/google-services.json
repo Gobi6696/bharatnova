@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "557760880908",
+    "project_id": "bharatnova-8de12",
+    "storage_bucket": "bharatnova-8de12.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557760880908:android:4912280b2fab124fc42929",
+        "android_client_info": {
+          "package_name": "com.gobi.bharatnova"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557760880908-htqb9ql1u8kk5t4lv1t2iqti5b8r8943.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gobi.bharatnova",
+            "certificate_hash": "6a9732838e7664da6eb2c1d1710c60ff712e4397"
+          }
+        },
+        {
+          "client_id": "557760880908-eg173ee0kdkgr6nasvh9aokolnhl36tf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZgoMIWBrTC-be7kKGN34LG4LjRqbXqc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557760880908-eg173ee0kdkgr6nasvh9aokolnhl36tf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "557760880908-20uu4furej8nou1jlsfrf725mmn3o3vm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gobi.bharatnova"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
