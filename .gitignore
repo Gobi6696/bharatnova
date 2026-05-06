@@ -43,3 +43,31 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Security & Secrets (Firebase/API Keys)
+# These should NOT be committed to version control
+ios/Runner/GoogleService-Info.plist
+android/app/google-services.json
+ios/firebase_app_id_file.json
+.env
+*.env
+
+# Android Secrets & Signing
+android/local.properties
+android/key.properties
+**/*.jks
+**/*.keystore
+
+# macOS/iOS specific
+.DS_Store
+**/ios/Pods/
+**/ios/Podfile.lock
+**/ios/.symlinks/
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
