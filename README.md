@@ -43,7 +43,7 @@ The project follows a **Feature-First Architecture** (Modular approach), ensurin
 
 | Splash Screen | Login Flow | News Feed |
 |:---:|:---:|:---:|
-| ![Splash](assets/images/splash_placeholder.png) | ![Login](assets/images/login_placeholder.png) | ![Home](assets/images/home_placeholder.png) |
+| ![Splash](assets/screenshot/splashscreen.jpeg) | ![Login](assets/screenshot/loginscreen.jpeg) | ![Home](assets/screenshot/homescreen.jpeg) |
 
 ---
 
