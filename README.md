@@ -57,7 +57,7 @@ The project follows a **Feature-First Architecture** (Modular approach), ensurin
 ### Installation
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YourUsername/bharatnova.git
+   git clone https://github.com/Gobi6696/bharatnova.git
    ```
 2. **Install dependencies**
    ```bash
@@ -83,9 +83,9 @@ The project follows a **Feature-First Architecture** (Modular approach), ensurin
 
 ## 📬 Contact & Connect
 
-- **GitHub**: [@YourGitHub](https://github.com/YourUsername)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
-- **Email**: your.email@example.com
+- **GitHub**: [@Gobi6696](https://github.com/Gobi6696)
+- **LinkedIn**: [Gobinath Shanmugam](https://www.linkedin.com/in/gobinath-shanmugam-244718152/)
+- **Email**: gobinath6696@gmail.com
 
 ---
 *Made with ❤️ in India by BharatNova Team*
